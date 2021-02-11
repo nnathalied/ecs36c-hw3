@@ -50,7 +50,7 @@ You will find the input file for stack in `[PROJ_ROOT]/input/rbt/[num].txt`.
 For each line in the input file for binary search tree:
 
 1. `c COMMENTS` All comments will begin with `c`.
-2. `t` Create an empty tree.  Note there will be only one `t` for every file and `t` will always proceed other non-comment commands.
+2. `e` Create an empty tree.  Note there will be only one `t` for every file and `t` will always proceed other non-comment commands.
 3. `i k v` Create a tree node with key = `k` and value = `v` insert the new node into the tree.
 4. `d k` Delete the TreeNode with the key = `k`
 5. `t` Print the top view of the tree [See Example Below](#Top\ Bottom\ Views)
