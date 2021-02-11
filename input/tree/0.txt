@@ -1,0 +1,11 @@
+t 4
+c the tree will have at most four children
+i 1 1
+h
+l
+i 2 2
+i 3 2
+i 4 2
+i 5 2
+h
+l
